@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Aliexpress redirector
-// @namespace    simplyaman
-// @downloadURL  https://github.com/SimplyAMan/aliexpress_redirector/blob/master/aliexpress_redirector.user.js
-// @version      0.1
+// @namespace    pt.aliexpress.utils
+// @downloadURL  https://raw.githubusercontent.com/lfilipe/aliexpress_ru_pt/master/redirect.js
+// @version      0.2
 // @description  Redirect from ru to pt aliexpress local website
 // @author       lfilipe
 // @match        https://*.aliexpress.ru/*
